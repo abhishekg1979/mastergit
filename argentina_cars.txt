@@ -1,5 +1,5 @@
 money,brand,model,year,color,fuel_type,door,gear,motor,body_type,kilometres,currency
-10350000,Toyota,Corolla Cross,2022,Plateado,Nafta,5.0,Automática,,SUV,500,pesos
+10350000,ToyotaCorolla,Corolla Cross,2022,Plateado,Nafta,5.0,Automática,,SUV,500,pesos
 10850000,Jeep,Compass,2022,Blanco,Nafta,5.0,Automática,2.4,SUV,500,pesos
 35500,Jeep,Compass,2022,Gris oscuro,Nafta,5.0,Automática,2.4,SUV,500,dólares
 19000,Citroën,C4 Cactus,2022,Gris oscuro,Nafta,5.0,Automática,,SUV,550,dólares
